@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated MCA student with a passion for Full Stack Web Development, specializing in the MERN stack.<br>Certified at the AWS Practitioner level, demonstrating practical knowledge of cloud computing.<br>Founder of 'An Open Programmer,' a YouTube channel sharing expertise in Full Stack Web Development.<br>Co-founder of Code Scaler, a technology venture aimed at bridging the gap between theory and practice in the tech world.<br>Committed to inspiring and educating others to excel in the dynamic field of technology.
+I am an Assistant Professor at Bahra University specialized in Artificial Intelligence, Machine Learning and Web Development.<br>Certified at the AWS Practitioner level, demonstrating practical knowledge of cloud computing.<br>Founder of 'An Open Programmer,' a YouTube channel sharing expertise in Full Stack Web Development, Machine Learning.<br>Co-founder of Code Scaler, a technology venture aimed at bridging the gap between theory and practice in the tech world.<br>Committed to inspiring and educating others to excel in the dynamic field of technology.
 
 
 ## 🌐 Socials:
